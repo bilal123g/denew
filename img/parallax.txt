@@ -1,0 +1,9 @@
+        <!-- PARALLAX SECTION -->
+        
+        <section id="parallax" class="sectionArea">
+            <div class="parallaxTop">
+                <h2 class="sectionHeader">WELCOME TO CAR</h2>
+                <p>Vix at tation facete impetus omnesque ius harum antiopam.</p>
+            </div>
+        </section>
+        
